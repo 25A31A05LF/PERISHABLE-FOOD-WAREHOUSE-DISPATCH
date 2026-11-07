@@ -50,7 +50,7 @@ Compare Min-Heap operations with sorting-based approaches.
 Mention possible improvements.
 
 ## 👨‍💻 Author
-Your name
+Suvarnam Pavan Dinesh
 
 ## 📜 License
 This project is created for academic and educational purposes.
