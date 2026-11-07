@@ -1,12 +1,18 @@
- # Java compiled files
- *.class
+# =====================================
+# JAVA COMPILED FILES
+# =====================================
+*.class
 
-# Java build output
+# =====================================
+# JAVA BUILD OUTPUT
+# =====================================
 out/
 build/
 target/
 
-# IDE configuration files
+# =====================================
+# IDE CONFIGURATION FILES
+# =====================================
 .idea/
 .vscode/
 *.iml
@@ -14,13 +20,22 @@ target/
 .classpath
 .settings/
 
-# Temporary files
+# =====================================
+# TEMPORARY FILES
+# =====================================
 *.tmp
 *.log
 *.bak
 *~
 
-# Operating system files
+# =====================================
+# OPERATING SYSTEM FILES
+# =====================================
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# =====================================
+# PROJECT GENERATED INVENTORY DATA
+# =====================================
+warehouse_inventory.txt
